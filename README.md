@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/ManuCovr/slowsay)](https://github.com/ManuCovr/slowsay/issues)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> *Slow down, relax, and let this chill ASCII sloth deliver your message — one letter at a time.*
+> *Slow down, relax, and let this chill ASCII sloth deliver your message, one letter at a time.*
 
 ---
 

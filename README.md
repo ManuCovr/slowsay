@@ -15,6 +15,10 @@
 Perfect for adding a bit of personality and laid-back charm to your terminal sessions.
 
 ---
+Installation:
+curl -fsSL https://raw.githubusercontent.com/ManuCovr/slowsay/main/slowsay -o slowsay
+chmod +x slowsay
+sudo mv slowsay /usr/local/bin/
 
 ## Demo
 

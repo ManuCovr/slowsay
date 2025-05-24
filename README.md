@@ -23,5 +23,11 @@ To install **slowsay** globally, run the following commands:
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ManuCovr/slowsay/main/slowsay -o slowsay
 chmod +x slowsay
-sudo mv slowsay /usr/local/bin/
+sudo mv slowsay /usr/local/bin
+```
+## Usage
+```bash
+Usage: slowsay "your message"
+Example: slowsay "Take it slow, amigo..."
+
 
